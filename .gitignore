@@ -1,0 +1,7 @@
+.settings
+catalog
+target
+
+.classpath
+.project
+mule-project.xml
